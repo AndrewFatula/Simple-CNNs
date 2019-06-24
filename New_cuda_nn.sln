@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "New_cuda_nn", "New_cuda_nn\New_cuda_nn.vcxproj", "{0F091B36-CDDF-4077-A2C6-C576EC402B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Debug|Win32.Build.0 = Debug|Win32
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Debug|x64.ActiveCfg = Debug|x64
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Debug|x64.Build.0 = Debug|x64
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Debug|x86.Build.0 = Debug|Win32
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Release|Win32.ActiveCfg = Debug|Win32
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Release|Win32.Build.0 = Debug|Win32
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Release|x64.ActiveCfg = Release|x64
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Release|x64.Build.0 = Release|x64
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Release|x86.ActiveCfg = Release|Win32
+		{0F091B36-CDDF-4077-A2C6-C576EC402B46}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27C9BC51-0532-4001-8CFF-650E62366CEB}
+	EndGlobalSection
+EndGlobal
